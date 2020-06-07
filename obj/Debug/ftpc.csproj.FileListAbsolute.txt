@@ -1,0 +1,9 @@
+C:\Users\acer\source\repos\ftpc\bin\Debug\ftpc.exe.config
+C:\Users\acer\source\repos\ftpc\bin\Debug\ftpc.exe
+C:\Users\acer\source\repos\ftpc\bin\Debug\ftpc.pdb
+C:\Users\acer\source\repos\ftpc\obj\Debug\ftpc.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ftpc\obj\Debug\ftpc.Form1.resources
+C:\Users\acer\source\repos\ftpc\obj\Debug\ftpc.Properties.Resources.resources
+C:\Users\acer\source\repos\ftpc\obj\Debug\ftpc.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\ftpc\obj\Debug\ftpc.exe
+C:\Users\acer\source\repos\ftpc\obj\Debug\ftpc.pdb
